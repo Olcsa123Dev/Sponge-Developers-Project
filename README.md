@@ -1,6 +1,8 @@
 # Free-HTML-CSS-JS-Templates
 By Sponges Developers.
-A sponge developers make easy HTML and CSS and JS website templates.
+
+
+A sponge developers make HTML and CSS and JSwe sell free and paid website templates.
 
 Shall I help you?
 
