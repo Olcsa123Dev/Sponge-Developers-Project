@@ -4,7 +4,7 @@ By Sponge Developers.
 
 A sponge developers make HTML and CSS and JS we sell free and paid website templates.
 
-#FAQ
+FAQ
 
 Shall I help you?
 
