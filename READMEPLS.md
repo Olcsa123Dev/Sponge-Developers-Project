@@ -2,7 +2,7 @@
 By Sponge Developers.
 
 
-A sponge developers make HTML and CSS and JS we sell free and paid website templates.
+A sponge developers make HTML, CSS and JS we sell free and paid website templates.
 
 FAQ
 
